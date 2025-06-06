@@ -1,0 +1,462 @@
+no change     /meta/opt/anaconda3/condabin/conda
+no change     /meta/opt/anaconda3/bin/conda
+no change     /meta/opt/anaconda3/bin/conda-env
+no change     /meta/opt/anaconda3/bin/activate
+no change     /meta/opt/anaconda3/bin/deactivate
+no change     /meta/opt/anaconda3/etc/profile.d/conda.sh
+no change     /meta/opt/anaconda3/etc/fish/conf.d/conda.fish
+no change     /meta/opt/anaconda3/shell/condabin/Conda.psm1
+no change     /meta/opt/anaconda3/shell/condabin/conda-hook.ps1
+no change     /meta/opt/anaconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /meta/opt/anaconda3/etc/profile.d/conda.csh
+no change     /u/home/wyou/.bashrc
+No action taken.
+
+#######################################################################
+Please cite the following paper when using nnU-Net:
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
+#######################################################################
+
+There are 88 cases in the source folder
+I am process 0 out of 1 (max process ID is 0, we start counting with 0!)
+There are 88 cases that I would like to predict
+
+Predicting case_00501:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00501
+
+Predicting case_00502:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00502
+
+Predicting case_00503:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00503
+
+Predicting case_00504:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00504
+
+Predicting case_00505:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00505
+
+Predicting case_00506:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00506
+
+Predicting case_00507:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00507
+
+Predicting case_00508:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00508
+
+Predicting case_00509:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00509
+
+Predicting case_00510:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00510
+
+Predicting case_00511:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00511
+
+Predicting case_00512:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00512
+
+Predicting case_00513:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00513
+
+Predicting case_00514:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00514
+
+Predicting case_00515:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00515
+
+Predicting case_00516:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00516
+
+Predicting case_00517:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00517
+
+Predicting case_00518:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00518
+
+Predicting case_00519:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00519
+
+Predicting case_00520:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00520
+
+Predicting case_00521:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00521
+
+Predicting case_00522:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00522
+
+Predicting case_00523:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00523
+
+Predicting case_00524:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00524
+
+Predicting case_00525:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00525
+
+Predicting case_00526:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00526
+
+Predicting case_00527:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00527
+
+Predicting case_00528:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00528
+
+Predicting case_00529:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00529
+
+Predicting case_00530:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00530
+
+Predicting case_00531:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00531
+
+Predicting case_00532:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00532
+
+Predicting case_00533:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00533
+
+Predicting case_00534:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00534
+
+Predicting case_00535:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00535
+
+Predicting case_00536:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00536
+
+Predicting case_00537:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00537
+
+Predicting case_00538:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00538
+
+Predicting case_00539:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00539
+
+Predicting case_00540:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00540
+
+Predicting case_00541:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00541
+
+Predicting case_00542:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00542
+
+Predicting case_00543:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00543
+
+Predicting case_00544:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00544
+
+Predicting case_00545:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00545
+
+Predicting case_00546:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00546
+
+Predicting case_00547:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00547
+
+Predicting case_00548:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00548
+
+Predicting case_00549:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00549
+
+Predicting case_00550:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00550
+
+Predicting case_00551:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00551
+
+Predicting case_00552:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00552
+
+Predicting case_00553:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00553
+
+Predicting case_00554:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00554
+
+Predicting case_00555:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00555
+
+Predicting case_00556:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00556
+
+Predicting case_00557:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00557
+
+Predicting case_00558:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00558
+
+Predicting case_00559:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00559
+
+Predicting case_00560:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00560
+
+Predicting case_00561:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00561
+
+Predicting case_00562:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00562
+
+Predicting case_00563:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00563
+
+Predicting case_00564:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00564
+
+Predicting case_00565:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00565
+
+Predicting case_00566:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00566
+
+Predicting case_00567:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00567
+
+Predicting case_00568:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00568
+
+Predicting case_00569:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00569
+
+Predicting case_00570:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00570
+
+Predicting case_00571:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00571
+
+Predicting case_00572:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00572
+
+Predicting case_00573:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00573
+
+Predicting case_00574:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00574
+
+Predicting case_00575:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00575
+
+Predicting case_00576:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00576
+
+Predicting case_00577:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00577
+
+Predicting case_00578:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00578
+
+Predicting case_00579:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00579
+
+Predicting case_00580:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00580
+
+Predicting case_00581:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00581
+
+Predicting case_00582:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00582
+
+Predicting case_00583:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00583
+
+Predicting case_00584:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00584
+
+Predicting case_00585:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00585
+
+Predicting case_00586:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00586
+
+Predicting case_00587:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00587
+
+Predicting case_00588:
+perform_everything_on_device: True
+sending off prediction to background worker for resampling and export
+done with case_00588
