@@ -356,19 +356,19 @@
             "preprocessor_name": "DefaultPreprocessor",
             "batch_size": 2,
             "patch_size": [
-                128,
-                128,
-                128
+                32,
+                160,
+                160
             ],
             "median_image_size_in_voxels": [
-                528.0,
+                103.0,
                 512.0,
                 512.0
             ],
             "spacing": [
-                0.78126,
-                0.78125,
-                0.78125
+                3.0,
+                0.8,
+                0.8
             ],
             "normalization_schemes": [
                 "CTNormalization"
