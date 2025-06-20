@@ -122,6 +122,11 @@ nnUNetFrame/
 /result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_baseline_1/fold_1/checkpoint_best.pth
 /result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_baseline_1/fold_1/checkpoint_final.pth
 /result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_baseline_1/fold_1/validation
+/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_Res2/fold_1/checkpoint_best.pth
+/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_Res2/fold_1/checkpoint_final.pth
+/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_Res2/fold_1/validation
+
+
 
 !/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_baseline_1/fold_1/progress.png
 !/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_baseline_1/fold_1/training_log_2025_6_6_07_36_54.txt
@@ -129,7 +134,8 @@ nnUNetFrame/
 !/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_baseline/fold_1/progress.png
 !/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_baseline/fold_1/training_log_2025_6_8_12_41_21.txt
 
-
+!/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_Res2/fold_1/progress.png
+!/result_Youran/dataset_221/nnUNetTrainer__nnUNetPlans__3d_fullres_Res2/fold_1/training_log_2025_6_8_12_41_21.txt
 
 
 
